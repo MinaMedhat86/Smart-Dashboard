@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Smart-Dashboard/static/css/main.2b4b8b31.css",
+    "main.js": "/Smart-Dashboard/static/js/main.a05672f2.js",
+    "static/js/453.a8e45fc7.chunk.js": "/Smart-Dashboard/static/js/453.a8e45fc7.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Smart-Dashboard/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/pic3.png": "/Smart-Dashboard/static/media/pic3.1e8c4c1d6b4c15f0291a.png",
+    "static/media/fa-brands-400.ttf": "/Smart-Dashboard/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Smart-Dashboard/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/erorr.png": "/Smart-Dashboard/static/media/erorr.5b2067962202f7304bae.png",
+    "static/media/fa-brands-400.woff2": "/Smart-Dashboard/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/Smart-Dashboard/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Smart-Dashboard/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Smart-Dashboard/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Smart-Dashboard/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Smart-Dashboard/index.html",
+    "main.2b4b8b31.css.map": "/Smart-Dashboard/static/css/main.2b4b8b31.css.map",
+    "main.a05672f2.js.map": "/Smart-Dashboard/static/js/main.a05672f2.js.map",
+    "453.a8e45fc7.chunk.js.map": "/Smart-Dashboard/static/js/453.a8e45fc7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b4b8b31.css",
+    "static/js/main.a05672f2.js"
+  ]
+}
